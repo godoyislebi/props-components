@@ -1,0 +1,152 @@
+ [
+    {
+      "id": 1,
+      "nombre": "Laptop Gamer Pro X",
+      "categoria": "Computadores",
+      "precio": 1199990,
+      "stock": 10,
+      "marca": "TechMaster",
+      "imagen": "lklknnlk,kjm",
+      "descripcion": "Laptop gamer de alto rendimiento con procesador de última generación, 16GB de RAM y tarjeta gráfica dedicada ideal para juegos exigentes y trabajo pesado."
+    },
+    {
+      "id": 2,
+      "nombre": "Smartphone Ultra 5G",
+      "categoria": "Celulares",
+      "precio": 849990,
+      "stock": 25,
+      "marca": "MobileTech",
+      "imagen": "https://via.placeholder.com/300x300?text=Smartphone+Ultra+5G",
+      "descripcion": "Smartphone con conectividad 5G, pantalla AMOLED de 6.7 pulgadas, 256GB de almacenamiento y cámara triple de alta resolución."
+    },
+    {
+      "id": 3,
+      "nombre": "Auriculares Bluetooth NoiseCancel",
+      "categoria": "Audio",
+      "precio": 179990,
+      "stock": 40,
+      "marca": "SoundMax",
+      "imagen": "https://via.placeholder.com/300x300?text=Auriculares+Bluetooth",
+      "descripcion": "Auriculares inalámbricos con cancelación activa de ruido, batería de larga duración y sonido envolvente de alta fidelidad."
+    },
+    {
+      "id": 4,
+      "nombre": "Monitor 27\" 4K UHD",
+      "categoria": "Monitores",
+      "precio": 329990,
+      "stock": 15,
+      "marca": "ViewPro",
+      "imagen": "https://via.placeholder.com/300x300?text=Monitor+4K+27",
+      "descripcion": "Monitor de 27 pulgadas con resolución 4K UHD, ideal para diseño gráfico, edición de video y entretenimiento."
+    },
+    {
+      "id": 5,
+      "nombre": "Teclado Mecánico RGB",
+      "categoria": "Periféricos",
+      "precio": 79990,
+      "stock": 30,
+      "marca": "KeyMaster",
+      "imagen": "https://via.placeholder.com/300x300?text=Teclado+RGB",
+      "descripcion": "Teclado mecánico con retroiluminación RGB personalizable, switches de alta precisión y estructura resistente."
+    },
+    {
+      "id": 6,
+      "nombre": "Mouse Inalámbrico Ergonómico",
+      "categoria": "Periféricos",
+      "precio": 44990,
+      "stock": 50,
+      "marca": "ClickPro",
+      "imagen": "https://via.placeholder.com/300x300?text=Mouse+Inalambrico",
+      "descripcion": "Mouse inalámbrico con diseño ergonómico, sensor de alta precisión y batería recargable de larga duración."
+    },
+    {
+      "id": 7,
+      "nombre": "Tablet 10\" Full HD",
+      "categoria": "Tablets",
+      "precio": 279990,
+      "stock": 20,
+      "marca": "TabWorld",
+      "imagen": "https://via.placeholder.com/300x300?text=Tablet+10+Full+HD",
+      "descripcion": "Tablet con pantalla Full HD de 10 pulgadas, 128GB de almacenamiento y sistema operativo optimizado para productividad y entretenimiento."
+    },
+    {
+      "id": 8,
+      "nombre": "Smartwatch Fit Pro",
+      "categoria": "Wearables",
+      "precio": 139990,
+      "stock": 35,
+      "marca": "LifeTech",
+      "imagen": "https://via.placeholder.com/300x300?text=Smartwatch+Fit+Pro",
+      "descripcion": "Reloj inteligente con monitoreo de ritmo cardíaco, seguimiento deportivo, notificaciones y resistencia al agua."
+    },
+    {
+      "id": 9,
+      "nombre": "Disco Duro SSD 1TB",
+      "categoria": "Almacenamiento",
+      "precio": 109990,
+      "stock": 60,
+      "marca": "DataFast",
+      "imagen": "https://via.placeholder.com/300x300?text=SSD+1TB",
+      "descripcion": "Unidad de estado sólido de 1TB con alta velocidad de lectura y escritura, ideal para mejorar el rendimiento del computador."
+    },
+    {
+      "id": 10,
+      "nombre": "Cámara Web HD 1080p",
+      "categoria": "Accesorios",
+      "precio": 59990,
+      "stock": 45,
+      "marca": "CamVision",
+      "imagen": "https://via.placeholder.com/300x300?text=Camara+Web+1080p",
+      "descripcion": "Cámara web con resolución Full HD 1080p, micrófono integrado y enfoque automático para videollamadas nítidas."
+    },
+    {
+      "id": 11,
+      "nombre": "Router WiFi 6",
+      "categoria": "Redes",
+      "precio": 149990,
+      "stock": 18,
+      "marca": "NetSpeed",
+      "imagen": "https://via.placeholder.com/300x300?text=Router+WiFi+6",
+      "descripcion": "Router con tecnología WiFi 6, mayor velocidad y estabilidad de conexión para múltiples dispositivos."
+    },
+    {
+      "id": 12,
+      "nombre": "Impresora Multifuncional",
+      "categoria": "Oficina",
+      "precio": 219990,
+      "stock": 12,
+      "marca": "PrintPlus",
+      "imagen": "https://via.placeholder.com/300x300?text=Impresora+Multifuncional",
+      "descripcion": "Impresora multifuncional que imprime, escanea y copia, ideal para uso doméstico y oficina."
+    },
+    {
+      "id": 13,
+      "nombre": "Power Bank 20000mAh",
+      "categoria": "Accesorios",
+      "precio": 34990,
+      "stock": 70,
+      "marca": "ChargeUp",
+      "imagen": "https://via.placeholder.com/300x300?text=Power+Bank+20000mAh",
+      "descripcion": "Batería externa de 20000mAh con carga rápida y múltiples puertos USB para cargar varios dispositivos simultáneamente."
+    },
+    {
+      "id": 14,
+      "nombre": "Altavoz Inteligente",
+      "categoria": "Hogar Inteligente",
+      "precio": 119990,
+      "stock": 22,
+      "marca": "HomeSmart",
+      "imagen": "https://via.placeholder.com/300x300?text=Altavoz+Inteligente",
+      "descripcion": "Altavoz inteligente con asistente de voz integrado, control de dispositivos del hogar y excelente calidad de sonido."
+    },
+    {
+      "id": 15,
+      "nombre": "Tarjeta Gráfica RTX 4070",
+      "categoria": "Componentes",
+      "precio": 579990,
+      "stock": 8,
+      "marca": "GraphX",
+      "imagen": "https://via.placeholder.com/300x300?text=RTX+4070",
+      "descripcion": "Tarjeta gráfica de alto rendimiento con arquitectura avanzada, ideal para gaming en alta resolución y tareas de diseño 3D."
+    }
+  ]

@@ -1,17 +1,15 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div>
+    <ProductGrilla :productos="objetos" />
+  </div>
 </template>
 
-<script>
-import HelloWorld from './components/HelloWorld.vue'
+<script setup>
+import ProductGrilla from "./components/ProductGrilla.vue";
 
-export default {
-  name: 'App',
-  components: {
-    HelloWorld
-  }
-}
+//JSON//////////////////////////////////////////
+import objetos from "../src/assets/productos.json";
+//JSON//////////////////////////////////////////
 </script>
 
 <style>
