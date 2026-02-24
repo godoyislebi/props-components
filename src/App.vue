@@ -1,15 +1,18 @@
 <template>
+<NavBar></NavBar>
   <div>
     <ProductGrilla :productos="objetos" />
   </div>
+  <FooterC></FooterC>
 </template>
 
 <script setup>
+import NavBar from "./components/NavBar.vue";
 import ProductGrilla from "./components/ProductGrilla.vue";
-
 //JSON//////////////////////////////////////////
 import objetos from "../src/assets/productos.json";
-//JSON//////////////////////////////////////////
+import FooterC from "./components/FooterC.vue";
+
 </script>
 
 <style>
@@ -19,6 +22,5 @@ import objetos from "../src/assets/productos.json";
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
 }
 </style>
